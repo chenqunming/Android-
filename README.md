@@ -190,7 +190,7 @@ ANR的全称application not responding responding 应用程序未响应。
 5. 图片加载采用三级缓存，避免每次都要重新加载。
 6. 尝试开启硬件加速来使ListView的滑动更加流畅。
 7. 使用RecycleView代替。
-8. 
+
 # 13.Threat和Runnable的区别
 在程序开发中只要是多线程肯定永远以实现Runnable接口为主，因为实现Runnable接口相比。
 继承Thread类有如下好处：
