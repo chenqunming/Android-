@@ -191,7 +191,7 @@ ANR的全称application not responding responding 应用程序未响应。
 6. 尝试开启硬件加速来使ListView的滑动更加流畅。
 7. 使用RecycleView代替。
 
-# 13.Threat和Runnable的区别
+# 13.Thread和Runnable的区别
 在程序开发中只要是多线程肯定永远以实现Runnable接口为主，因为实现Runnable接口相比。
 继承Thread类有如下好处：
 - 避免点继承的局限，一个类可以继承多个接口。
